@@ -1,0 +1,59 @@
+,,
+sexo,,legenda
+M,,1
+F,,2
+,,
+Ocupação,,
+trabalha em local coberto,,1
+trabalha em local exposto ao sol,,2
+não trabalha,,3
+,,
+,,
+Horário de exposição solar,,
+manhã,,1
+tarde,,2
+manhã e tarde,,3
+não se expõe,,4
+Tempo de exposição,,
+até 2h,,1
+2h-6h,,2
+mais de 6h,,3
+não se expõe,,4
+motivo de exposição ,,
+deslocamento,,1
+trabalho sob exposição,,2
+lazer,,3
+exercício físico,,4
+trabalho e deslocamento,,5
+não se expõe,,6
+bronzeamento,,
+nunca,,1
+as vezes,,2
+sempre,,3
+,,
+uso de protetor,,
+nunca,,1
+as vezes,,2
+sempre,,3
+,,
+reaplicação,,
+1-3 vezes,,1
+mais de 3 vezes,,2
+não reaplica,,3
+não faz uso,,4
+barreiras,,
+1,,1
+2-3,,2
+mais de 3,,3
+nenhuma,,4
+,,
+,,
+conhecimento sobre doenças de pele ,,
+sim,,1
+não,,2
+,,
+afecções de pele que conhece,,
+1,,1
+2-3,,2
+mais de 3,,3
+não conhece,,4
