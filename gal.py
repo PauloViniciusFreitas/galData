@@ -46,3 +46,5 @@ for coluna, descricoes in tabelas_info.items():
     print(f"Tabela: {coluna}")
     print(tabela)
     line()
+
+    # hello world
