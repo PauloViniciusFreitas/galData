@@ -47,4 +47,5 @@ for coluna, descricoes in tabelas_info.items():
     print(tabela)
     line()
 
-    # hello world
+# exemplo jr
+# !!!
